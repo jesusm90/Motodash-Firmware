@@ -2,7 +2,7 @@
   "version": "1.1.0",
   "hwVariant": "motodash-s3175",
   "file": "motodash-s3175-v1.1.0.bin",
-  "size": 1399136,
+  "size": 434880,
   "md5": "3fd3fd2be0a01670ac067a887fbabf37",
   "minAppVersion": "1.0.0",
   "releaseNotes": "Actualizacion de FW OTA, minimapa, diagnostico y comunicaciones bluetooth"
